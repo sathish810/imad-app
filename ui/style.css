@@ -5,7 +5,7 @@ body {
 }
 
 .center {
-    text-align: center;
+    text-align: right;
 }
 
 .text-big {
@@ -17,6 +17,6 @@ body {
 }
 
 .img-medium {
-    height: 1000px;
+    height: 300px;
 }
 
